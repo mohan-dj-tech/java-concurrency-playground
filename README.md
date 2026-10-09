@@ -1,4 +1,4 @@
-# Java Concurrency & Multithreading Benchmarks
+# Java Concurrency & Multithreading Examples
 
 A hands-on collection of Java concurrency, multithreading, and performance-tuning examples. This repository demonstrates core concurrency concepts, thread signaling patterns, high-concurrency bottlenecks, deadlock mitigation strategies, and modern features like Virtual Threads.
 
